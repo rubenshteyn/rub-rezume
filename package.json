@@ -5,11 +5,16 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "i18n:report": "vue-cli-service i18n:report --src \"./src/**/*.?(js|vue)\" --locales \"./src/locales/**/*.json\""
   },
   "dependencies": {
+    "@intlify/vue-i18n-loader": "^4.2.0",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-cli-plugin-i18n": "^2.3.1",
+    "vue-cookies": "^1.8.2",
+    "vue-i18n": "^9.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
