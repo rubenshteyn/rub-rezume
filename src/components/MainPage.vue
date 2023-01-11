@@ -26,7 +26,7 @@
             </div>
           </div>
           <!--        <div class="card-social">-->
-          <!--          <a href="https://t.me/drum_n_stein" target="_blank">-->
+          <!--          <a href="https://t.me/iRooba" target="_blank">-->
           <!--            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">-->
           <!--              <path fill="#29b6f6" d="M24 4A20 20 0 1 0 24 44A20 20 0 1 0 24 4Z"/>-->
           <!--              <path fill="#fff"-->
@@ -90,7 +90,7 @@
                 </svg>
                 <a href="mailto:pikasssoul@yandex.ru" class="card-link">pikasssoul@yandex.ru</a>
               </div>
-              <a href="https://t.me/drum_n_stein" target="_blank" class="contact-me">{{ $t('contactInfo.work') }}</a>
+              <a href="https://t.me/iRooba" target="_blank" class="contact-me">{{ $t('contactInfo.work') }}</a>
             </div>
           </div>
         </div>
