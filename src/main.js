@@ -16,7 +16,7 @@ const i18n = createI18n({
                 "contacts": "CONTACTS"
             },
             "aboutInfo": {
-                "hello": "Greetings! My name is Ilya, I'm a Junior Frontend developer.",
+                "hello": "Greetings! My name is Ilya, I'm a Frontend developer.",
                 "skills": "I can work in conjunction with other developers (backend, fullstack, etc).",
                 "code": "It is not a problem for me to understand what is written in the code in another language (Golang, Python, etc)",
                 "experience": "The total experience of commercial development is six months."
@@ -48,7 +48,7 @@ const i18n = createI18n({
                 "contacts": "КОНТАКТЫ"
             },
             "aboutInfo": {
-                "hello": "Приветствую! Меня зовут Илья, я Junior Frontend - разработчик.",
+                "hello": "Приветствую! Меня зовут Илья, я Frontend - разработчик.",
                 "skills": "Умею работать в связке с другими разработчиками(backend, fullstack, etc).",
                 "code": "Для меня не проблема понять что написано в коде на другом языке(Golang, Python, etc)",
                 "experience": "Суммарный опыт коммерческой разработки - полгода."
