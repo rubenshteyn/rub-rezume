@@ -46,6 +46,10 @@
                 <div class="card-item-title">{{ $t('experienceInfo.2022') }}</div>
                 <div class="card-item-desc">{{ $t('experienceInfo.description2022') }}</div>
               </div>
+                <div class="card-item" data-year="2023">
+                    <div class="card-item-title">{{ $t('experienceInfo.2023') }}</div>
+                    <div class="card-item-desc">{{ $t('experienceInfo.description2023') }}</div>
+                </div>
             </div>
           </div>
         </div>
@@ -165,6 +169,12 @@ body {
   flex-direction: column;
   border-radius: 10px;
   box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.2);
+}
+
+.card::-webkit-scrollbar, *::-webkit-scrollbar {
+    display: none;
+} {
+    display: none;
 }
 
 .card-link {

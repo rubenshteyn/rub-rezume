@@ -30,7 +30,9 @@ const i18n = createI18n({
                 "20211": "Work as a system administrator in the KTB Group of Companies",
                 "description20211": "Change of activity in the direction - system administration.",
                 "2022": "Junior front-end developer job at Infinitium Media",
-                "description2022": "Participated in the development of a web application on Vue3. He was engaged in the design, layout and integration of the application with the server part."
+                "description2022": "Participated in the development of a web application on Vue3. He was engaged in the design, layout and integration of the application with the server part.",
+                "2023": "Work as a JavaScript-developer at Gaodi",
+                "description2023": "Implementation and support of MES for production. Engaged in automating the work of employees, making applications on Node.js interacting with different devices (for example, printers, scales) using the terminal, setting up a server on Ubuntu, setting up a database on the ArangoDB and Docker-compose stack, writing technical processes (on the internal framework) for displaying various interfaces.",
             },
             "contactInfo": {
                 "relocate": "Moscow, m. Rostokino (ready to move, ready for occasional business trips)",
@@ -63,6 +65,8 @@ const i18n = createI18n({
                 "description20211": "Смена деятельности в направлении - системное администрирование.",
                 "2022": "Работа Junior front-end developer в Infinitium Media",
                 "description2022": "Участвовал в разработке веб-приложения на Vue3. Занимался оформлением, версткой и интеграцией приложения с серверной частью.",
+                "2023": "Работа JavaScript-developer в Gaodi",
+                "description2023": "Внедрение и поддержка MES на производство. Занимался автоматизацией работы сотрудников, делал приложения на Node.js взаимодействующих с разными устройствами(например принтеры, весы) с помощью терминала, настраивал сервер на Ubuntu, настраивал БД на стеке ArangoDB и Docker-compose, писал технические процессы(на внутреннем фреймворке) для отображения различных интерфейсов.",
             },
             "contactInfo": {
                 "relocate": "Москва, м. Ростокино (готов к переезду, готов к редким командировкам)",
