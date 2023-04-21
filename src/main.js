@@ -35,7 +35,7 @@ const i18n = createI18n({
                 "description2023": "Implementation and support of MES for production. Engaged in automating the work of employees, making applications on Node.js interacting with different devices (for example, printers, scales) using the terminal, setting up a server on Ubuntu, setting up a database on the ArangoDB and Docker-compose stack, writing technical processes (on the internal framework) for displaying various interfaces.",
             },
             "contactInfo": {
-                "relocate": "Moscow, m. Rostokino (ready to move, ready for occasional business trips)",
+                "relocate": "Moscow, m. Tsaritsyno (ready to move, ready for occasional business trips)",
                 "work": "WORK TOGETHER"
             }
         },
@@ -69,7 +69,7 @@ const i18n = createI18n({
                 "description2023": "Внедрение и поддержка MES на производство. Занимался автоматизацией работы сотрудников, делал приложения на Node.js взаимодействующих с разными устройствами(например принтеры, весы) с помощью терминала, настраивал сервер на Ubuntu, настраивал БД на стеке ArangoDB и Docker-compose, писал технические процессы(на внутреннем фреймворке) для отображения различных интерфейсов.",
             },
             "contactInfo": {
-                "relocate": "Москва, м. Ростокино (готов к переезду, готов к редким командировкам)",
+                "relocate": "Москва, м. Царицыно (готов к переезду, готов к редким командировкам)",
                 "work": "РАБОТАТЬ ВМЕСТЕ"
             }
         }
