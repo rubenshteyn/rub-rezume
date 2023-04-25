@@ -19,7 +19,7 @@ const i18n = createI18n({
                 "hello": "Greetings! My name is Ilya, I'm a Frontend developer.",
                 "skills": "I can work in conjunction with other developers (backend, fullstack, etc).",
                 "code": "It is not a problem for me to understand what is written in the code in another language (Golang, Python, etc)",
-                "experience": "The total experience of commercial development is six months."
+                "experience": "The total experience of commercial development is 1 year."
             },
             "experienceInfo": {
                 "work": "WORK EXPERIENCE",
@@ -53,7 +53,7 @@ const i18n = createI18n({
                 "hello": "Приветствую! Меня зовут Илья, я Frontend - разработчик.",
                 "skills": "Умею работать в связке с другими разработчиками(backend, fullstack, etc).",
                 "code": "Для меня не проблема понять что написано в коде на другом языке(Golang, Python, etc)",
-                "experience": "Суммарный опыт коммерческой разработки - полгода."
+                "experience": "Суммарный опыт коммерческой разработки - 1 год."
             },
             "experienceInfo": {
                 "work": "ОПЫТ РАБОТЫ",
